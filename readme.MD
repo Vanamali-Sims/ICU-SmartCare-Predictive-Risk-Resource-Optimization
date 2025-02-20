@@ -68,8 +68,9 @@ graph TD
 - **Supports healthcare professionals** by providing actionable insights into patient risk levels.
 
 ## Contributors
-- **Your Name** - [your-email@example.com]
-- **Team Members**
+- Sai Vanamali Simhambhatla - [vanworksim@gmail.com]
+- 
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
