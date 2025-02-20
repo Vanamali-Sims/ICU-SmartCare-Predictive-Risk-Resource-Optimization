@@ -5,7 +5,7 @@ import numpy as np
 import yaml
 import torch
 
-app = FastAPI(title="ICU Risk Prediction API")
+app = FastAPI(title="ICU Risk Prediction API for Health")
 
 class PatientData(BaseModel):
     vitals: list  # Time-series data [HR, BP, SpO2, ...]

@@ -1,6 +1,4 @@
-#%%
 
-# Import libraries
 
 import pandas as pd
 import numpy as np
@@ -15,7 +13,7 @@ variables = pd.read_csv(f"{DATA_DIR}/sofa_variables.csv")
 
 #%%
 
-# Build eICU SOFA
+# Build eICU SOFA sofa being 
 
 icustay_ids = pd.read_csv(
     "%s/final_data/admissions_eicu.csv" % OUTPUT_DIR, usecols=["patientunitstayid"]

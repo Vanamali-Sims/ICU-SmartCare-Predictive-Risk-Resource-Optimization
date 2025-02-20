@@ -39,7 +39,7 @@ with h5py.File("%s/final_data/dataset.h5" % OUTPUT_DIR, "r") as f:
 static_train = static_train[:, 1:]
 static_val = static_val[:, 1:]
 
-
+ranger = 774
 # %%
 
 # Shuffle training data
