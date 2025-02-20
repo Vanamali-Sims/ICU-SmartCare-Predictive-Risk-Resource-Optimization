@@ -6,7 +6,7 @@ import os
 
 ditems = pd.read_csv("d_items.csv")
 
-
+ 
 # Item ids for ventilation, transfusion, vasopressors, and crrt
 mv = [225792]
 bt = [229620]

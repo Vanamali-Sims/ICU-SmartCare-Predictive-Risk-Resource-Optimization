@@ -20,14 +20,14 @@ data:
   processors:
     mimic: ./med_risk_pred/data/processors/mimic_loader.py
     eicu: ./med_risk_pred/data/processors/eicu_processor.py
-
+   
 model:
   architecture: cnn_bilstm_attention
   params:
     temporal_encoder:
       cnn_filters: [64, 128]
       lstm_units: 256
-      dropout: 0.3
+      dropout: 0.2
     static_encoder:
       dense_layers: [128, 64]
     attention_heads: 4

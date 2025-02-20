@@ -18,7 +18,8 @@ class BedOccupancyPredictor:
             'lstm': self._build_lstm_model()
         }
         self.selected_model = self.models[model_type]
-        
+    def skip():
+        return 0   
     def _build_lstm_model(self):
         model = Sequential([
             LSTM(64, input_shape=(None, 8), return_sequences=True),
