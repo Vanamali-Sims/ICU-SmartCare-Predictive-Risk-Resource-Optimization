@@ -1,8 +1,12 @@
 # MedSentry: An AI-Powered ICU Workflow Orchestration
+<br>
 
 ## Overview
-**MedSentry** is an advanced real-time predictive model designed to improve patient monitoring, optimize ICU resource allocation, address time sensitivity and reduce unnecessary alarm fatigue and clinical uncertainty. Our AI-powered ICU Command Center turns this three-front war into winnable battles through predictive precise modelling, with continuous enhancements being made to improve accuracy, usability, and impact.
+**MedSentry** is an advanced real-time predictive model designed to improve patient monitoring, optimize ICU resource allocation, address time sensitivity and reduce unnecessary alarm fatigue and clinical uncertainty. 
 
+Our AI-powered ICU Command Center turns this three-front war into winnable battles through predictive precise modelling, with continuous enhancements being made to improve accuracy, usability, and impact.
+
+<br>
 ## Bed Occupancy Prediction Usage
 # Data Requirements
 
@@ -26,12 +30,14 @@
 
 ## Integration with Risk Assessment
 
+```mermaid
 graph TD
     A[APRICOT-M Risk Scores] --> B[Bed Occupancy Predictor]
     C[Hospital CMS Data] --> B
     B --> D[Occupancy Forecast]
     D --> E[Staff Scheduling]
     D --> F[Resource Allocation]
+```
 
 ## Key Benefits
 
