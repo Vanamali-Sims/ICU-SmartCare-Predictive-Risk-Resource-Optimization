@@ -1,10 +1,7 @@
-# ICU SmartCare: Predictive Risk & Resource Optimization
+# MedSentry: An AI-Powered ICU Workflow Orchestration
 
 ## Overview
-The **ICU SmartCare: Predictive Risk & Resource Optimization** is an advanced real-time predictive model designed to improve patient monitoring, optimize ICU resource allocation, and reduce unnecessary alarm fatigue. This project is built upon the **ApricotM** model and is currently in the **development stage**, with continuous enhancements being made to improve accuracy, usability, and impact.
-
-
-
+**MedSentry** is an advanced real-time predictive model designed to improve patient monitoring, optimize ICU resource allocation, address time sensitivity and reduce unnecessary alarm fatigue and clinical uncertainty. Our AI-powered ICU Command Center turns this three-front war into winnable battles through predictive precise modelling, with continuous enhancements being made to improve accuracy, usability, and impact.
 
 ## Bed Occupancy Prediction Usage
 # Data Requirements
@@ -40,12 +37,12 @@ graph TD
 
 ### 1. **Enhanced Patient Risk Assessment**
 - Incorporates multiple scoring mechanisms beyond traditional ICU risk scoring.
-- Uses a **blended risk score** based on established clinical metrics such as **SOFA (Sequential Organ Failure Assessment)**.
+- Uses a **blended risk score** based on established clinical metrics.
 - Aims to provide a more holistic and **trustworthy** risk evaluation for critical care patients.
 
 ### 2. **Improved ICU Resource Utilization**
-- Calculates **real-time ICU bed occupancy rates**, ensuring efficient resource management.
-- Helps **predict bed availability**, improving hospital operations and emergency response.
+- Calculates **real-time Lenght of Stay**, ensuring efficient resource management.
+- Offers **dashboard integration** for quick and effective decision-making.
 - Assists medical staff in making data-driven decisions about **patient admission and discharge planning**.
 
 ### 3. **Reduction in Alarm Fatigue**
@@ -53,29 +50,23 @@ graph TD
 - Uses **refined risk scores** to filter out low-priority alarms and only trigger alerts when intervention is genuinely required.
 - Aims to **improve patient outcomes** by ensuring timely and accurate responses to critical conditions.
 
-### 4. **Real-Time Monitoring & Decision Support**
-- Enables hospitals to continuously monitor patient deterioration and risk levels.
-- Offers **dashboard integration** for quick and effective decision-making.
-- Supports seamless integration with **existing hospital management systems**.
-
 ## Current Development Status
 - The system is **actively being developed and tested** to refine predictive accuracy and integration capabilities.
-- Additional **data sources and clinical inputs** are being incorporated to improve the effectiveness of predictions.
+- Additional **data sources and clinical inputs**, gained through effective communication with relevant stakeholders, are constantly being incorporated.
 - Work is in progress to make the solution **scalable and adaptable** to various hospital infrastructures.
 
 ## How This Project Will Help ICU Units
 - **Enhances patient safety** through **more accurate risk predictions**.
 - **Reduces ICU burden** by improving resource allocation and reducing false alarms.
-- **Improves hospital efficiency** by assisting in **bed availability tracking**.
+- **Improves hospital efficiency** by assisting in **Length of Stay tracking**.
 - **Supports healthcare professionals** by providing actionable insights into patient risk levels.
 
 ## Contributors
 - Sai Vanamali Simhambhatla 
 - Raghav Sharma 
-- Vishrut aggarwal
-- Brain
+- Vishrut Aggarwal
+- Brian Huynh
 - York Tan
-
 
 ## The implemented Front-end 
 
