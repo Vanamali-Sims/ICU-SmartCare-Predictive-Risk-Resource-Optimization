@@ -75,8 +75,8 @@ graph TD
 - York Tan
 
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+## The implemented Front-end 
+
 
 ![Front End](image.png)
 ![Front End-2](image-1.png)
