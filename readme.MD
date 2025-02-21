@@ -4,6 +4,8 @@
 The **ICU SmartCare: Predictive Risk & Resource Optimization** is an advanced real-time predictive model designed to improve patient monitoring, optimize ICU resource allocation, and reduce unnecessary alarm fatigue. This project is built upon the **ApricotM** model and is currently in the **development stage**, with continuous enhancements being made to improve accuracy, usability, and impact.
 
 
+
+
 ## Bed Occupancy Prediction Usage
 # Data Requirements
 
