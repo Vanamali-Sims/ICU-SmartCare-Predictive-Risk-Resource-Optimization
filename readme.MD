@@ -68,10 +68,15 @@ graph TD
 - **Supports healthcare professionals** by providing actionable insights into patient risk levels.
 
 ## Contributors
-- Sai Vanamali Simhambhatla - [vanworksim@gmail.com]
-- 
+- Sai Vanamali Simhambhatla 
+- Raghav Sharma 
+- Vishrut aggarwal
+- Brain
+- York Tan
 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
 
+![Front End](image.png)
+![Front End-2](image-1.png)
