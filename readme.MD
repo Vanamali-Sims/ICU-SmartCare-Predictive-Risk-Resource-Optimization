@@ -33,11 +33,16 @@ Our AI-powered ICU Command Center turns this three-front war into winnable battl
 
 ```mermaid
 graph TD
-    A[APRICOT-M Risk Scores] --> B[Bed Occupancy Predictor]
+    A[MIMIC IV] --> B[Multimodal Model]
     C[Hospital CMS Data] --> B
-    B --> D[Occupancy Forecast]
-    D --> E[Staff Scheduling]
-    D --> F[Resource Allocation]
+    B --> D[Existing Risk Scores]
+    B --> E[Traditional Scoring Models]
+    B --> F[Proprietary Models]
+    D --> G[Weighted Score Calculation]
+    E --> G
+    F --> G
+    G --> H[Alerting Concerned Stakeholders and providing Summarized Reasoning]
+    G --> I[Length of Stay Prediction]
 ```
 
 ## Key Benefits
