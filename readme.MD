@@ -7,9 +7,7 @@ Our AI-powered ICU Command Center turns this three-front war into winnable battl
 
 <br>
 
-## Bed Occupancy Prediction Usage
-# Data Requirements
-
+## Data Requirements
 
 | Feature               | Description                           | Source                  |
 |-----------------------|---------------------------------------|-------------------------|
