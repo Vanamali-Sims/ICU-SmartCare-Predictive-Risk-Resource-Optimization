@@ -7,6 +7,7 @@
 Our AI-powered ICU Command Center turns this three-front war into winnable battles through predictive precise modelling, with continuous enhancements being made to improve accuracy, usability, and impact.
 
 <br>
+
 ## Bed Occupancy Prediction Usage
 # Data Requirements
 
