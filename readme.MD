@@ -36,7 +36,7 @@ Our AI-powered ICU Command Center turns this three-front war into winnable battl
 
 ```mermaid
 graph TD
-    A[Advanced Dataset 2 (MIMIC IV)] --> B[Multimodal Model]
+    A[Advanced Dataset 2 - MIMIC IV] --> B[Multimodal Model]
     C[Hospital CMS Data] --> B
     D[eICU] --> B
     B --> E[Existing Risk Scores]
