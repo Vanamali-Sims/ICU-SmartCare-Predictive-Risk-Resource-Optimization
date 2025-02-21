@@ -1,5 +1,4 @@
 # MedSentry: An AI-Powered ICU Workflow Orchestration
-<br>
 
 ## Overview
 **MedSentry** is an advanced real-time predictive model designed to improve patient monitoring, optimize ICU resource allocation, address time sensitivity and reduce unnecessary alarm fatigue and clinical uncertainty. 
@@ -41,7 +40,7 @@ graph TD
     D --> G[Weighted Score Calculation]
     E --> G
     F --> G
-    G --> H[Alerting Concerned Stakeholders and providing Summarized Reasoning]
+    G --> H[Alerting concerned Stakeholders and providing Summarized Reasoning]
     G --> I[Length of Stay Prediction]
 ```
 
@@ -74,10 +73,10 @@ graph TD
 - **Supports healthcare professionals** by providing actionable insights into patient risk levels.
 
 ## Contributors
-- Sai Vanamali Simhambhatla 
-- Raghav Sharma 
+- Sai Vanamali Simhambhatla
+- Raghav Sharma
 - Vishrut Aggarwal
-- Brian Huynh
+- Nguyen Gia Khang Huynh
 - York Tan
 
 ## The implemented Front-end 
