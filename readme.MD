@@ -36,16 +36,17 @@ Our AI-powered ICU Command Center turns this three-front war into winnable battl
 
 ```mermaid
 graph TD
-    A[MIMIC IV] --> B[Multimodal Model]
+    A[Advanced Dataset 2 (MIMIC IV)] --> B[Multimodal Model]
     C[Hospital CMS Data] --> B
-    B --> D[Existing Risk Scores]
-    B --> E[Traditional Scoring Models]
-    B --> F[Proprietary Models]
-    D --> G[Weighted Score Calculation]
-    E --> G
-    F --> G
-    G --> H[Alerting concerned Stakeholders and providing Summarized Reasoning]
-    G --> I[Length of Stay Prediction]
+    D[eICU] --> B
+    B --> E[Existing Risk Scores]
+    B --> F[Traditional Scoring Models]
+    B --> G[Proprietary Models]
+    E --> H[Weighted Score Calculation]
+    F --> H
+    G --> H
+    H --> I[Alerting concerned Stakeholders and providing Summarized Reasoning]
+    H --> J[Length of Stay Prediction]
 ```
 
 <br>
